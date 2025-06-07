@@ -1,0 +1,17 @@
+{
+	id: "bc6ba41f-1174-32c5-9d26-66f6702c82f6"
+	type: "player"
+	player_name: "MHgamer200"
+	ranks: {
+		bc6ba41f-1174-32c5-9d26-66f6702c82f6: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "MHgamer200"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFD6"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

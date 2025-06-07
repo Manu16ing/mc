@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "bc6ba41f117432c59d2666f6702c82f6"
+	name: "MHgamer200#bc6ba41f"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
