@@ -2304,3 +2304,44 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Jun2025 20:43:32.217] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@5778f4a6
 [15Jun2025 20:44:34.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made MHGamer1 a server operator
 [15Jun2025 20:44:46.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made MHgamer200 a server operator
+[15Jun2025 20:44:54.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MHgamer200: Made MHGamer1 no longer a server operator]
+[15Jun2025 20:45:29.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MHgamer200: Removed 3 item(s) from player MHgamer200]
+[15Jun2025 20:45:46.181] [Worker-Main-11/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[15Jun2025 20:45:46.210] [Worker-Main-11/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/normal
+[15Jun2025 20:45:46.238] [Worker-Main-11/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/plains
+[15Jun2025 20:45:50.864] [Worker-Main-11/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/normal
+[15Jun2025 20:45:50.887] [Worker-Main-11/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/plains
+[15Jun2025 20:45:50.888] [Worker-Main-11/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[15Jun2025 20:45:58.210] [Worker-Main-11/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/plains
+[15Jun2025 20:45:58.210] [Worker-Main-11/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[15Jun2025 20:45:58.211] [Worker-Main-11/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/normal
+[15Jun2025 20:46:02.808] [Worker-Main-11/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[15Jun2025 20:46:02.808] [Worker-Main-11/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/plains
+[15Jun2025 20:46:02.813] [Worker-Main-11/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/normal
+[15Jun2025 20:46:07.161] [Worker-Main-11/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[15Jun2025 20:46:07.176] [Worker-Main-11/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/plains
+[15Jun2025 20:46:07.176] [Worker-Main-11/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/normal
+[15Jun2025 20:46:12.545] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_plains took 30449 ms
+[15Jun2025 20:46:12.546] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 30417ms or 608 ticks behind
+[15Jun2025 20:46:12.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MHgamer200 moved too quickly! 7.135323557161129,2.1661092609382138,7.189849649551974
+[15Jun2025 20:47:00.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MHgamer200 has made the advancement [Craft Lead]
+[15Jun2025 20:47:00.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MHgamer200 has made the advancement [Dungeon Now Loading]
+[15Jun2025 20:48:57.360] [Worker-Main-15/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/2417, l='ServerLevel[world]', x=192.50, y=-28.00, z=-428.50] as it would cause deadlock
+[15Jun2025 20:49:48.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MHgamer200 has made the advancement [Stone Age]
+[15Jun2025 20:50:57.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MHgamer200 has made the advancement [Getting an Upgrade]
+[15Jun2025 20:51:47.273] [Worker-Main-15/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/3183, l='ServerLevel[world]', x=192.50, y=-28.00, z=-436.50] as it would cause deadlock
+[15Jun2025 20:52:02.955] [Worker-Main-15/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/3315, l='ServerLevel[world]', x=52.50, y=22.00, z=-460.50] as it would cause deadlock
+[15Jun2025 20:52:34.047] [Worker-Main-15/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/3436, l='ServerLevel[world]', x=52.50, y=22.00, z=-468.50] as it would cause deadlock
+[15Jun2025 20:52:34.923] [Worker-Main-15/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/3446, l='ServerLevel[world]', x=178.50, y=-28.00, z=-464.50] as it would cause deadlock
+[15Jun2025 20:52:34.924] [Worker-Main-15/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/3448, l='ServerLevel[world]', x=178.50, y=-28.00, z=-472.50] as it would cause deadlock
+[15Jun2025 20:52:35.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MHgamer200 has made the advancement [Knowledge of Death]
+[15Jun2025 20:52:35.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MHgamer200 has made the advancement [Ambush]
+[15Jun2025 20:52:35.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MHgamer200 has made the advancement [Monster Hunter]
+[15Jun2025 20:52:51.159] [Worker-Main-15/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/3559, l='ServerLevel[world]', x=88.50, y=-28.00, z=-495.50] as it would cause deadlock
+[15Jun2025 20:53:00.430] [Worker-Main-15/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/3606, l='ServerLevel[world]', x=238.50, y=-28.00, z=-505.50] as it would cause deadlock
+[15Jun2025 20:53:00.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MHgamer200 was slain by Zombie
+[15Jun2025 20:53:00.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MHgamer200 has made the advancement [Your First Grave]
+[15Jun2025 20:53:00.511] [Server thread/INFO] [tombstone/]: The player MHgamer200 has successfully been saved
+[15Jun2025 20:53:17.868] [Worker-Main-15/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/4000, l='ServerLevel[world]', x=88.50, y=-28.00, z=-503.50] as it would cause deadlock
+[15Jun2025 20:55:09.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MHgamer200 has made the advancement [Crops of the Wild]
+[15Jun2025 20:55:09.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MHgamer200 has made the advancement [Wild Crops]
